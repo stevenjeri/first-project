@@ -4,7 +4,7 @@ h1 {
 }
 
 h2 {
-  color: silver;
+  color: red;
   font-style: italic;
   text-align: center;
 }
@@ -15,4 +15,41 @@ p{
 
 ul{
   line-height: 40px:
+}
+
+body{
+  background-color: skyblue;
+}
+
+.intro{
+  font-style: italic;
+}
+
+.author{
+  color: red
+}
+
+p.author{
+  font-size: 12px;
+}
+
+.line1{
+  color: red
+}
+#line2{
+  color: red
+}
+
+img{
+  float: left;
+}
+
+.test-box{
+  border: 2px solid red;
+}
+.test-box{
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
 }
